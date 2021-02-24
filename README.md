@@ -4,7 +4,6 @@ I built a web app and mobile app to show you my experience in front-end developm
 in the web app, I have Used advanced hooks (useReducer, useLayoutEffect, useContext).
 https://github.com/peterazer90/Peter-Azer-Front-End-ReactJS-Task.git
 ## Skills Used
-    HTML5
     TYPESCRIPT
     REDUX & REACT-REDUX
     ESLINT
