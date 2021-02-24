@@ -15,9 +15,8 @@ https://github.com/peterazer90/Peter-Azer-Front-End-ReactJS-Task.git
     Components containing custom button.
     Endpoints: containing api urls, methods and config.
     Helpers: containing types and demo data.
-    Hooks: containing contexts.
-    Pages: containing radio page.
-    Store: containing reducer, state and actions.
+    Screens: containing radio screen.
+    Redux: containing reducer, state, store and actions.
 
 ## Available Scripts
 
